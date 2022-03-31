@@ -128,7 +128,7 @@ Enter Choice : 3
 
     Press any key to continue . . .
     
-    
+####
     
              PLEASE ENTER THE CHOICE
                       1:: Add Record
@@ -156,7 +156,7 @@ Enter Choice : 4
 
     Press any key to continue . . .
 
-
+####
              PLEASE ENTER THE CHOICE
                       1:: Add Record
                       2:: Search Record
@@ -187,7 +187,7 @@ Enter Choice : 5
       Enter roll:: 123
 
 
-      Enter the month till which fee to be paid:: 2 3
+      Enter the month till which fee to be paid:: 
       2
       1
 
@@ -197,6 +197,8 @@ Enter Choice : 5
       advance :: 0.00
 
       Press any key to continue . . .
+      
+####
 
              PLEASE ENTER THE CHOICE
                       1:: Add Record
