@@ -1,6 +1,6 @@
 # Requirements
  
-  School Billing System is based on the concept to generate the Student’s and Staff’s records and to add their details and update it. Here User can Add Students & Staffs Information as well as their Salary due and Fees details.It’s easy to operate and understand by users.
+   School Billing System is based on the concept to generate the Student’s and Staff’s records and to add their details and update it. Here User can Add Students & Staffs Information as well as their Salary due and Fees details.It’s easy to operate and understand by users.
   
 # 4W'S and 1H
    
