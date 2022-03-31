@@ -10,16 +10,58 @@
 
    ## WHY
 
-   * We are living in the banking world now a days people need security and time saving so, Atm is a best option for everyone to save time and efforts in this case it easy for people to go atm and do their own transaction without third person involvement.
+   * We are living in the digital world now a days people need time saving so, it is a best option for everyone to save time and efforts and they can also get rid of paper works.
 
    ## WHEN
 
-   * The basic advantage of atm machine is we can use any time in day 24/7 and 365 days we can get mini statements and receipts for every transaction.
+   * The basic advantage of School Billing System is we can use any time in day 24/7 and 365 days.
 
-   ## WHAT
+   ## WHERE
 
-   *  ATM Cash Withdrawal is utility project this process it tells about the option which are we usually using in our daily life it has ability to deposit cash , withdraw cash and check the account balance.
+   *  We can use this School Billing System in any School Management.
 
    ## HOW
 
-   * How can we make deposit and how can we make withdraw and check balance , it is easy  to deposit we can directy click on deposit option and add how much money you want to add then click on finish transaction same way we add money and we can check balance as well.
+   * This application was developed in C language to avoid the complexity and to keep it simple.
+
+# SWOT ANALYSIS
+ 
+ ## Strengths
+  
+ * We can access it from anywhere.
+ * Easy to use.
+ * Faster Process.
+ * It is available for 24/7.
+  
+ ## Weaknesses
+   
+ * No graphical interface.
+   
+ ## Opportunities
+  
+ * It has opportunities to gain more user.
+ * Customer satisfaction.
+ * GUI can be implemented.
+
+ ## Threats
+  
+ * Best applications are available using different technologies.
+ * Competition is High.
+
+# Detail Requirements
+
+## High Level Requirements
+| ID | Description |
+|--|--|
+| HLR_1 | Students Record|
+| HLR_2 | Teachers Record|
+| HLR_3 | Exit after the use of School Billing System|
+
+
+## Low Level Requirements 
+
+| ID | Description |
+|--|--|
+| LLR_1 | Main menu should consist 3 options: 1.Student 2.Teacher 3.Exit|
+| LLR_2 | Reading user input to select particular option|
+| LLR_3 | Calculate salary of Staffs |
