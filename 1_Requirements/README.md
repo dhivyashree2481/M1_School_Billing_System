@@ -6,7 +6,7 @@
    
    ## WHAT
 
-   *This School Billing System project enables the user to maintain the billing system in schools and helps to print term reports for students. It shall also print reports of the fees payments for students. The teachers shall be able to upload the term reports on to the system. 
+   * This School Billing System project enables the user to maintain the billing system in schools and helps to print term reports for students. It shall also print reports of the fees payments for students. The teachers shall be able to upload the term reports on to the system. 
 
    ## WHY
 
