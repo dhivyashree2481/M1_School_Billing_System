@@ -16,6 +16,12 @@
 ### Valgrind
 [![Valgrind](https://github.com/dhivyashree2481/M1_School_Billing_System/actions/workflows/valgrind.yml/badge.svg)](https://github.com/dhivyashree2481/M1_School_Billing_System/actions/workflows/valgrind.yml)
 
+### Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d79dc5c96a15441888e5090f31d91556)](https://www.codacy.com/gh/dhivyashree2481/M1_School_Billing_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dhivyashree2481/M1_School_Billing_System&amp;utm_campaign=Badge_Grade)
+
+### Codiga
+![codiga](https://api.codiga.io/project/32437/status/svg)
+
 
 ## Folder Structure
 | Folder | Description |
